@@ -32,6 +32,18 @@ namespace Leson2
             {
                 Console.WriteLine(y+d2);
             }
+            if (z==true || f==true)
+            {
+                Console.WriteLine(x);
+            }
+            else
+            {
+                Console.WriteLine(y);
+            }
+            var tr = (d1>d2);
+            var tr1 = (d2<d1)?d2+d1:d2-d1;
+            Console.WriteLine(tr);
+            Console.WriteLine(tr1);
         }
     }
 }
