@@ -14,19 +14,23 @@ namespace Leson2
             bool e = x == y;
             bool j = x != y;
             bool q = x < y;
+            double d1 = 9.1212414;
+            double d2 = 9.123414;
+            double res = d1 / d2;
+            Console.WriteLine(res);
             Console.WriteLine(z);
             Console.WriteLine(f);
             Console.WriteLine(d);
             Console.WriteLine(e);
             Console.WriteLine(j);
             Console.WriteLine(q);
-            if (x > y)
+            if (x > y && d1>d2)
             {
-                Console.WriteLine(x);
+                Console.WriteLine(x+d1);
             }
             else
             {
-                Console.WriteLine(y);
+                Console.WriteLine(y+d2);
             }
         }
     }
