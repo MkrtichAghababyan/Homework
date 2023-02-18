@@ -40,6 +40,7 @@ namespace Calculetor
         {
             //hatuk irar tak u irar kpac grelu hamar
             bool bl = true;
+            string harc="ayo";
             string s1 = Console.ReadLine();
             string s;
             double a;
@@ -49,62 +50,71 @@ namespace Calculetor
                 a = double.Parse(Console.ReadLine());
                 s = Console.ReadLine();
                 b = double.Parse(Console.ReadLine());
-                while (bl == true)
+                while (bl == true || harc=="ayo")
                 {
                     switch (s)
                     {
                         case "+":
-                            Console.WriteLine(Sum(a, b));
+                            Console.WriteLine("="+Sum(a, b));
                             bl = false;
                             break;
                         case "-":
-                            Console.WriteLine(Min(a, b));
+                            Console.WriteLine("=" + Min(a, b));
                             bl = false;
                             break;
                         case "*":
-                            Console.WriteLine(Mult(a, b));
+                            Console.WriteLine("=" + Mult(a, b));
                             bl = false;
                             break;
                         case "/":
-                            Console.WriteLine(Div(a, b));
+                            Console.WriteLine("=" + Div(a, b));
                             bl = false;
                             break;
                         default:
                             Console.WriteLine("Nermucvac nshany sxal e xndrum enq porcel noric");
                             break;
                     }
+                    Console.WriteLine("uzum eq sharunakel ayo +te voch");
+                    harc= Console.ReadLine();
+                    s=Console.ReadLine();
+                    a = double.Parse(Console.ReadLine());
+                    b = double.Parse(Console.ReadLine());
                 }
             }
             else
             {
+                harc = "ayo";
                 string s2 = s1[0].ToString();
                 string s3 = s1[2].ToString();
                 double a1 = Convert.ToDouble(s2);
                 double b1 = Convert.ToDouble(s3);
-                while (bl == true)
+                while (bl == true || harc=="ayo")
                 {
                     switch (s1[1])
                     {
                         case '+':
-                            Console.WriteLine(Sum(a1, b1));
+                            Console.WriteLine("=" + Sum(a1, b1));
                             bl = false;
                             break;
                         case '-':
-                            Console.WriteLine(Min(a1, b1));
+                            Console.WriteLine("=" + Min(a1, b1));
                             bl = false;
                             break;
                         case '*':
-                            Console.WriteLine(Mult(a1, b1));
+                            Console.WriteLine("=" + Mult(a1, b1));
                             bl = false;
                             break;
                         case '/':
-                            Console.WriteLine(Div(a1, b1));
+                            Console.WriteLine("=" + Div(a1, b1));
                             bl = false;
                             break;
                         default:
                             Console.WriteLine("Nermucvac nshany sxal e xndrum enq porcel noric");
                             break;
                     }
+                    Console.WriteLine("uzum eq sharunakel ayo te voch");
+                    harc= Console.ReadLine();
+                    s1=Console.ReadLine();
                 }
             }
             Console.ReadKey();
