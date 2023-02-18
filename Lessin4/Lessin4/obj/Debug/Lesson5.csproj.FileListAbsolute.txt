@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Lessin4\Lessin4\bin\Debug\Lessin4.exe.config
+C:\Users\user\source\repos\Lessin4\Lessin4\bin\Debug\Lessin4.exe
+C:\Users\user\source\repos\Lessin4\Lessin4\bin\Debug\Lessin4.pdb
+C:\Users\user\source\repos\Lessin4\Lessin4\obj\Debug\Lesson5.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lessin4\Lessin4\obj\Debug\Lesson5.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Lessin4\Lessin4\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lessin4\Lessin4\obj\Debug\Lessin4.exe
+C:\Users\user\source\repos\Lessin4\Lessin4\obj\Debug\Lessin4.pdb
