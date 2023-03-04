@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Lesson8\ClassProblem\bin\Debug\ClassProblem.exe.config
+C:\Users\user\source\repos\Lesson8\ClassProblem\bin\Debug\ClassProblem.exe
+C:\Users\user\source\repos\Lesson8\ClassProblem\bin\Debug\ClassProblem.pdb
+C:\Users\user\source\repos\Lesson8\ClassProblem\obj\Debug\ClassProblem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lesson8\ClassProblem\obj\Debug\ClassProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Lesson8\ClassProblem\obj\Debug\ClassProblem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lesson8\ClassProblem\obj\Debug\ClassProblem.exe
+C:\Users\user\source\repos\Lesson8\ClassProblem\obj\Debug\ClassProblem.pdb
