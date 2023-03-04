@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Classtry\Classtry\bin\Debug\Classtry.exe.config
+C:\Users\user\source\repos\Classtry\Classtry\bin\Debug\Classtry.exe
+C:\Users\user\source\repos\Classtry\Classtry\bin\Debug\Classtry.pdb
+C:\Users\user\source\repos\Classtry\Classtry\obj\Debug\Classtry.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Classtry\Classtry\obj\Debug\Classtry.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Classtry\Classtry\obj\Debug\Classtry.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Classtry\Classtry\obj\Debug\Classtry.exe
+C:\Users\user\source\repos\Classtry\Classtry\obj\Debug\Classtry.pdb
